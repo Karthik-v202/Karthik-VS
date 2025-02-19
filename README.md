@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Karthik VS</h1>
 <h3 align="center">Asspiring Mechanical Engineer</h3>
-<img align="right" alt="Mechanical Engineering" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.team-bhp.com%2Fforum%2Ftechnical-stuff%2F101768-complicated-mechanisms-explained-simple-animations.html&psig=AOvVaw0Kw8rTWgJGyKZt5NmsQkq4&ust=1740069054307000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCry8-U0IsDFQAAAAAdAAAAABAE">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-v202&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-v202" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-v202" alt="karthik-v202" /></a> </p>
+
+<img align="right" alt="Mechanical Engineering" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.team-bhp.com%2Fforum%2Ftechnical-stuff%2F101768-complicated-mechanisms-explained-simple-animations.html&psig=AOvVaw0Kw8rTWgJGyKZt5NmsQkq4&ust=1740069054307000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCry8-U0IsDFQAAAAAdAAAAABAE">
+
+
 
 - 🌱 I’m currently learning **Solidworks and CAD**
 
